@@ -6,7 +6,7 @@ Hello and welcome to this free course on Application Programming Interfaces, or 
 
 [![Watch the video on freeCodeCamp](https://img.youtube.com/vi/GZvSYJDk-us/maxresdefault.jpg)](https://youtu.be/GZvSYJDk-us)
 
-
+## Important links
 
 * [Course notes](./course-notes.md)
 * [Glitch starter repo for Complimentr in Python](https://github.com/craigsdennis/intro-to-apis-flask)
